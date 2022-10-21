@@ -4,8 +4,13 @@
 ![lab2b gif](https://user-images.githubusercontent.com/114015725/197112041-82d72d82-3be8-43cd-b500-0476492bc5b1.gif)
 
 ## Outline of Plan
-We would build a circuit to turn on or off the LED. The cool part is that the LED would gradually get brighter or darker. Besides, the turnning on and off
-is controlled by the keyboard
+We would build a circuit to turn on or off the LED. The cool part is that the LED would gradually get brighter or darker. Besides, turnning on and off
+are controlled by the keyboard. 
+
+The circuit we propose is shown below.
+
+![Circuit](https://user-images.githubusercontent.com/114015725/197113485-a21811c4-d9ba-4409-a051-a1490db8e589.jpeg)
+
 
 ## Components
 a 100uF capacitor
@@ -15,3 +20,6 @@ a STP16NF06 MOSFET
 2 750 Ohmn resistors
 
 a lighting LED
+
+## Questions
+We do not know what should be the best parameters for the components. We may need to try different resistors and capacitor.
