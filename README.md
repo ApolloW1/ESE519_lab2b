@@ -4,7 +4,7 @@
 ![lab2b gif](https://user-images.githubusercontent.com/114015725/197112041-82d72d82-3be8-43cd-b500-0476492bc5b1.gif)
 
 ## Outline of Plan
-We would build a circuit to turn on or off the LED. The cool part is that the LED would gradually get brighter or darker. Besides, turnning on and off
+We would build a circuit to turn on or off the LED. The cool part is that the LED would gradually get brighter or darker. Besides, turning on and off
 are controlled by the keyboard. 
 
 The circuit we propose is shown below.
@@ -22,4 +22,4 @@ a STP16NF06 MOSFET
 a lighting LED
 
 ## Questions
-We do not know what should be the best parameters for the components. We may need to try different resistors and capacitor.
+We do not know what should be the best parameters for the components. We may need to try different resistors and capacitors.
