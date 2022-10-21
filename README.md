@@ -13,13 +13,13 @@ The circuit we propose is shown below.
 
 
 ## Components
-a 100uF capacitor
+1. 1 100uF capacitor
 
-a STP16NF06 MOSFET
+2. 1 STP16NF06 MOSFET
 
-2 750 Ohmn resistors
+3. 2 750 Ohmn resistors
 
-a lighting LED
+4. 1 lighting LED
 
 ## Questions
 We do not know what should be the best parameters for the components. We may need to try different resistors and capacitors.
